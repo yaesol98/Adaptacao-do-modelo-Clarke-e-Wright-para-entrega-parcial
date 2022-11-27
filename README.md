@@ -6,6 +6,7 @@ This repository contains the research made during final paper (capstone project)
 Authors:
 
 Yaesol Shim
+
 Victoria Youssef
 
 Code's corresponding author: Yaesol Shim (yaesol98@gmail.com)
